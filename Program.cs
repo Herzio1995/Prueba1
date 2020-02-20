@@ -2,12 +2,14 @@
 
 namespace Prueba2
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hola Mundo!");
-         
+    class Program{
+        static void Main(string[] args){
+        }
+    }
+    class Burbuja {
+        private int contador;
+        Burbuja(){
+            contador = 0;
         }
     }
 }
