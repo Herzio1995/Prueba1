@@ -1,0 +1,11 @@
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\bin\Debug\netcoreapp3.1\Prueba2.exe
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\bin\Debug\netcoreapp3.1\Prueba2.deps.json
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\bin\Debug\netcoreapp3.1\Prueba2.runtimeconfig.json
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\bin\Debug\netcoreapp3.1\Prueba2.runtimeconfig.dev.json
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\bin\Debug\netcoreapp3.1\Prueba2.dll
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\bin\Debug\netcoreapp3.1\Prueba2.pdb
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\obj\Debug\netcoreapp3.1\Prueba2.csprojAssemblyReference.cache
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\obj\Debug\netcoreapp3.1\Prueba2.AssemblyInfoInputs.cache
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\obj\Debug\netcoreapp3.1\Prueba2.AssemblyInfo.cs
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\obj\Debug\netcoreapp3.1\Prueba2.dll
+C:\Users\Paulo Ochoa\source\repos\Prueba2\Prueba2\obj\Debug\netcoreapp3.1\Prueba2.pdb
