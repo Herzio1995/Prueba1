@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections;
 namespace Prueba2
 {
     class Program{
@@ -10,10 +10,20 @@ namespace Prueba2
         private int[] arreglo;
         private int contador;
         private int tamanio; //variable temporal que luego será sustituida por un input 
+        private ArrayList numeros = new ArrayList();
         Burbuja(){
             contador = 0;
             arreglo = new int[tamanio];
         }
+
+        public void generarArreglo(int tamanio)
+        {
+            numeros.Clear();
+            //generarArrayList(tamanio, 0);
+            imprimir(0);
+        }
+
+        
         public void ordenarArreglo(){
             int cont = 0; int pos = 1; int aux;
             for (int i = 0; i < arreglo.Length; i++){
